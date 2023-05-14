@@ -1,5 +1,5 @@
 # web-shell
-A web shell to access the target terminal
+A web shell to access the target terminal / 
 In IP_ADDRESS and PORT, we replace our desired information
 And after we saved the file with the command
 chmod +x shell.sh
